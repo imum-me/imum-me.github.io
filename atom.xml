@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">你是人间的四月天</title>
+    <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
+    <updated>2022-01-19T15:08:26&#43;08:00</updated>
+    <id>https://imum-me.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://imum-me.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://imum-me.github.io/atom.xml" />
+    <author>
+            <name>Zhao</name>
+            <uri>https://imum-me.github.io/</uri>
+            
+                <email>i@imum.me</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    <generator uri="https://gohugo.io/" version="0.91.2">Hugo</generator>
+        <entry>
+            <title type="text">This is for my gril</title>
+            <link rel="alternate" type="text/html" href="https://imum-me.github.io/posts/this-is-for-my-gril/" />
+            <id>https://imum-me.github.io/posts/this-is-for-my-gril/</id>
+            <updated>2022-01-16T15:46:27&#43;08:00</updated>
+            <published>2021-10-06T07:47:25&#43;08:00</published>
+            <author>
+                    <name>Zhao</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>i@imum.me</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">2岁1个月21天 服了我闺女的感性的一天 今晚睡前她妈妈和她在翻手机里她小时候的照片 一边……</summary>
+            
+                <content type="html">&lt;p&gt;2岁1个月21天&lt;/p&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/tosspi/img@main//img/8871635580063_.pic_hd.jpg&#34; alt=&#34;alt Markdown&#34; style=&#34;zoom:10%;&#34; /&gt;
+&lt;p&gt;服了我闺女的感性的一天&lt;/p&gt;
+&lt;p&gt;今晚睡前她妈妈和她在翻手机里她小时候的照片&lt;/p&gt;
+&lt;p&gt;一边看一边在给她讲小时候的故事&lt;/p&gt;
+&lt;p&gt;她俩都看的特别认真&lt;/p&gt;
+&lt;p&gt;因为时间原因 妈妈说先看这些吧 剩下的明天再看&lt;/p&gt;
+&lt;p&gt;于是她妈妈就总结了一下说：&lt;/p&gt;
+&lt;p&gt;你小时候爸爸妈妈很爱你&lt;/p&gt;
+&lt;p&gt;大了爸爸妈妈更爱你&lt;/p&gt;
+&lt;p&gt;希望你健康长大 不要生病&lt;/p&gt;
+&lt;p&gt;等妈妈总结完成看我闺女&lt;/p&gt;
+&lt;p&gt;我闺女满眼泪水&lt;/p&gt;
+&lt;p&gt;我问她：你怎么了？&lt;/p&gt;
+&lt;p&gt;我闺女就哇哇大哭了&lt;/p&gt;
+&lt;p&gt;我…………最后哭睡了 …………&lt;/p&gt;
+&lt;p&gt;最后我想说：时间可真快啊  我的女孩已经这么大了&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://gitee.com/TossPi/blogimg/raw/master/img/8761635579792_.pic.jpg&#34; alt=&#34;alt Markdown&#34; style=&#34;zoom:25%;&#34; /&gt;&lt;img src=&#34;https://gitee.com/TossPi/blogimg/raw/master/img/8711635579786_.pic.jpg&#34; alt=&#34;alt Markdown&#34; style=&#34;zoom:25%;&#34; /&gt;&lt;img src=&#34;https://gitee.com/TossPi/blogimg/raw/master/img/8751635579792_.pic.jpg&#34; alt=&#34;alt Markdown&#34; style=&#34;zoom:25%;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/tosspi/img@main//img/8881635580066_.pic_hd.jpg&#34; alt=&#34;alt Markdown&#34; style=&#34;zoom:10%;&#34; /&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/tosspi/img@main//img/8871635580063_.pic_hd.jpg&#34; alt=&#34;alt Markdown&#34; style=&#34;zoom:10%;&#34; /&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/tosspi/img@main//img/8861635580050_.pic_hd.jpg&#34; alt=&#34;alt Markdown&#34; style=&#34;zoom:10%;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/tosspi/img@main//img/8851635580047_.pic_hd.jpg&#34; alt=&#34;alt Markdown&#34; style=&#34;zoom:10%;&#34; /&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/tosspi/img@main//img/8841635580046_.pic_hd.jpg&#34; alt=&#34;alt Markdown&#34; style=&#34;zoom:10%;&#34; /&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/tosspi/img@main//img/8831635580044_.pic_hd.jpg&#34; alt=&#34;alt Markdown&#34; style=&#34;zoom:10%;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/tosspi/img@main//img/8821635580042_.pic_hd.jpg&#34; alt=&#34;alt Markdown&#34; style=&#34;zoom:10%;&#34; /&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/tosspi/img@main//img/8811635580041_.pic.jpg&#34; alt=&#34;alt Markdown&#34; style=&#34;zoom:10%;&#34; /&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/tosspi/img@main//img/8781635580038_.pic_hd.jpg&#34; alt=&#34;alt Markdown&#34; style=&#34;zoom:10%;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/tosspi/img@main//img/8771635579793_.pic_hd.jpg&#34; alt=&#34;alt Markdown&#34; style=&#34;zoom:10%;&#34; /&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/tosspi/img@main//img/8741635579791_.pic_hd.jpg&#34; alt=&#34;alt Markdown&#34; style=&#34;zoom:10%;&#34; /&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/tosspi/img@main//img/8731635579789_.pic_hd.jpg&#34; alt=&#34;alt Markdown&#34; style=&#34;zoom:10%;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/tosspi/img@main//img/8721635579788_.pic_hd.jpg&#34; alt=&#34;alt Markdown&#34; style=&#34;zoom:10%;&#34; /&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/tosspi/img@main//img/8701635579785_.pic_hd.jpg&#34; alt=&#34;alt Markdown&#34; style=&#34;zoom:10%;&#34; /&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/tosspi/img@main//img/8691635579782_.pic_hd.jpg&#34; alt=&#34;alt Markdown&#34; style=&#34;zoom:10%;&#34; /&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://imum-me.github.io/tags/hm/" term="HM" label="HM" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">写给我亲爱的女儿</title>
+            <link rel="alternate" type="text/html" href="https://imum-me.github.io/posts/%E5%86%99%E7%BB%99%E6%88%91%E4%BA%B2%E7%88%B1%E7%9A%84%E5%A5%B3%E5%84%BF/" />
+            <id>https://imum-me.github.io/posts/%E5%86%99%E7%BB%99%E6%88%91%E4%BA%B2%E7%88%B1%E7%9A%84%E5%A5%B3%E5%84%BF/</id>
+            <updated>2022-01-16T15:46:12&#43;08:00</updated>
+            <published>2021-03-26T05:36:20&#43;08:00</published>
+            <author>
+                    <name>Zhao</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>i@imum.me</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">写给我亲爱的女儿👧🏻： 今天是你出生的第630天我的女儿 一岁8个月21天 是成功断奶后的……</summary>
+            
+                <content type="html">&lt;h1 id=&#34;写给我亲爱的女儿&#34;&gt;写给我亲爱的女儿👧🏻：&lt;/h1&gt;
+&lt;p&gt;今天是你出生的第630天我的女儿&lt;/p&gt;
+&lt;p&gt;一岁8个月21天&lt;/p&gt;
+&lt;p&gt;是成功断奶后的第二天&lt;/p&gt;
+&lt;p&gt;从此我们之间结束了36.7的母乳关系&lt;/p&gt;
+&lt;p&gt;相对于一般小朋友来说 这已经不算早了 但是我仍然心存万般不舍&lt;/p&gt;
+&lt;p&gt;你出乎意料的懂事 因为你对母乳的依恋都以为你会大闹 但是你却出奇的懂事&lt;/p&gt;
+&lt;p&gt;断奶的第一天你发烧了 不知什么原因&lt;/p&gt;
+&lt;p&gt;我很心疼 自责是不是因为断奶&lt;/p&gt;
+&lt;p&gt;但是你很欢腾 只有在很想的时候问我妈妈 mei&#39;mei 我说你是大宝宝不能吃了 你就不再说了&lt;/p&gt;
+&lt;p&gt;断奶的第二个夜晚你就开始睡整夜觉 半夜只是自己醒了叫了声妈妈翻身继续睡了&lt;/p&gt;
+&lt;p&gt;第一次没有一夜醒五六次来给你喂奶 我还有些不适&lt;/p&gt;
+&lt;p&gt;这个点以前你都会起来夜奶今天没有 而我却失眠了&lt;/p&gt;
+&lt;p&gt;我的女儿👧🏻你简直是妈妈的天使&lt;/p&gt;
+&lt;p&gt;虽然你还在发烧 母乳却意料之外的断的听话&lt;/p&gt;
+&lt;p&gt;我的女儿 妈妈只愿你健康快乐&lt;/p&gt;
+&lt;p&gt;永远爱你❤️&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/tosspi/img@main//img/eb92b586ly1gowuogl2avj22c0340b1y.jpg&#34; alt=&#34;babay&#34;&gt;&lt;/p&gt;
+&lt;p&gt;​												by&lt;a href=&#34;https://weibo.com/3952260486/K7UVHoQw5&#34;&gt;@牟云石石石&lt;/a&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://imum-me.github.io/tags/hm/" term="HM" label="HM" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">你是人间的四月天</title>
+            <link rel="alternate" type="text/html" href="https://imum-me.github.io/posts/%E4%BD%A0%E6%98%AF%E4%BA%BA%E9%97%B4%E7%9A%84%E5%9B%9B%E6%9C%88%E5%A4%A9/" />
+            <id>https://imum-me.github.io/posts/%E4%BD%A0%E6%98%AF%E4%BA%BA%E9%97%B4%E7%9A%84%E5%9B%9B%E6%9C%88%E5%A4%A9/</id>
+            <updated>2022-01-15T15:08:06&#43;08:00</updated>
+            <published>2019-07-05T13:00:00&#43;08:00</published>
+            <author>
+                    <name>Zhao</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>i@imum.me</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">你是人间的四月天 —— 一句爱的赞颂 我说 你是人间的四月天； 笑响点亮了四面风； 轻灵在春的光……</summary>
+            
+                <content type="html">&lt;h1 id=&#34;你是人间的四月天&#34;&gt;你是人间的四月天&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;—— 一句爱的赞颂&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;我说 你是人间的四月天；&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;笑响点亮了四面风；&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;轻灵在春的光艳中交舞着变。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;你是四月早天里的云烟，&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;黄昏吹着风的软，星子在&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;无意中闪，细雨点洒在花前。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;那轻，那娉婷，你是，&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;鲜妍百花的冠冕你戴着，&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;你是天真，庄严，&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;你是夜夜的月圆。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;雪化后那片鹅黄，你像；&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新鲜初放芽的绿，你是；&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;柔嫩喜悦，水光浮动着你梦期待中白莲。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;你是一树一树的花开，&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;是燕在梁间呢喃，&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;——你是爱，是暖，&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;是希望，&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;你是人间的四月天！&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;&lt;code&gt;2019.07.05 我的宝贝来到这个世界&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;img src=&#34;https://gitee.com/tosspi/img/raw/master/tags/riji/1.jpg&#34; alt=&#34;HEMU&#34; style=&#34;zoom: 50%;&#34; /&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://imum-me.github.io/tags/hm/" term="HM" label="HM" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+</feed>
