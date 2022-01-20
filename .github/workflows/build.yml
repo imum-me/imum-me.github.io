@@ -17,6 +17,6 @@ jobs:
       env:
         DEPLOY_REPO: imum-me/imum-me.github.io
         DEPLOY_BRANCH: build
-        DEPLOY_KEY: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDou6/DCCy9ep24AzGcedUxS9PyLuj7ppHmTVeeifSkH4SB8tvsVHBzcNwV4lbE6TsXpsZPFafY1ndcA5p1/J4Na7GA3bcX/gytUh8eo4k/AUjtgTLg+RlMID/1NCRIFR8sog5b7WPDN3+DfYHDaFW61UUNgSooMvoNj+mzGKmMjlAL7waqaIJZ40IqfCeXSMZTE4j1EBMi7Sd9EDfg1bJZ4CuWiw8eWt++R8sTdWs/P/yhOtDkwwKigpvchT/MgaGdmkBytkkwBHyXOPbPD69xprQlvcYN2VsWerTsF0dMqS05VPitYkx+WKnm3TZ+ARTdwmL1TxuHVNkiGr8ronmakwkFhkCBDiZEntDnHhNVKjiPm/qUZSJovaAYe1yQqMiSn3AX8x2y2PDJVwC7QVk70h9L3F8xeP2zWWdUOjtYuNCt2xDvz9hScqVHQyi4y4H7JCrYbImm2wbm3cD7EMwmFvtLwPy88JyS9qKZutVP5z350ZOXJT7VtU2nyVGR+mE= i@ibelife.cc
+        DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
         # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
         TZ: Asia/Shanghai
